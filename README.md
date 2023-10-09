@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @joloswag666
-- 👀 I’m interested in roblox
-- 🌱 I’m currently learning roblox coding
-- 💞️ I’m looking to collaborate on roblox
-- 📫 How to reach me roblox chat
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on Unreal Engine
+- 📫 How to reach me DM
 
 <!---
 joloswag666/joloswag666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
