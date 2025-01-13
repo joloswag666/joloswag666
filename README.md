@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joloswag666
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning godot
 - 💞️ I’m looking to collaborate on Unreal Engine
 - 📫 How to reach me DM
 
