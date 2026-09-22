@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @joloswag666
+- 👋 Hi, I’m @Majime
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning godot
-- 💞️ I’m looking to collaborate on Unreal Engine
 - 📫 How to reach me DM
 
 <!---
